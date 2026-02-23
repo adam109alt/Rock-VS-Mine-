@@ -64,7 +64,7 @@ pip install numpy pandas scikit-learn
 ### Run the Notebook
 
 ```bash
-git clone https://github.com/your-username/rock-vs-mine-prediction.git
+git clone https://github.com/adam109alt/rock-vs-mine-prediction.git
 cd rock-vs-mine-prediction
 jupyter notebook Rock_vs_mine_prediction.ipynb
 ```
